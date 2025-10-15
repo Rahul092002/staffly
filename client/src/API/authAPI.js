@@ -1,4 +1,3 @@
-import { API_URL } from './config';
 import axios from '../utils/axios';
 // import axios from 'axios';
 export const googleAuth = async (token) => {
